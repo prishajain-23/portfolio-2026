@@ -1,3 +1,19 @@
+* {
+  background-color: rgb(80, 143, 59);
+}
+
+body {
+  color: antiquewhite;
+}
+
+.footer {
+  position: fixed;
+  text-align: left;
+  bottom: 5px;
+  padding-left: 5px;
+  width: 100%;
+}
+
 .sidenav {
   height: 100%;
   width: 160px;
@@ -13,8 +29,9 @@
 .sidenav a {
   padding: 6px 8px 6px 16px;
   text-decoration: none;
-  font-size: 25px;
-  color: rgb(80, 143, 59);
+  /* font-size: 25px; */
+  /* color: rgb(80, 143, 59); */
+  color: antiquewhite;
   display: block;
 }
 
